@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  Real-time AI voice translation and voice cloning for multilingual meetings.<br />
-  Sub-300ms latency. 42 languages. Your voice — in every language.
+  Real-time AI voice translation and voice cloning built for real meetings.<br />
+  Under 300ms latency. 42 languages. Your voice — in every language.
 </p>
 
 <p align="center">
@@ -31,71 +31,51 @@
 
 ## The Problem
 
-Global teams lose thousands of hours each year to language barriers. Existing solutions force you to choose: use a translation app *alongside* your video call, or settle for basic auto-captions that miss nuance and context.
+Global teams waste so many hours every year because of language barriers. Most current tools force you to choose: either juggle a separate translation app during your video call, or rely on basic captions that often miss the real meaning and tone.
 
-**Jinsoku eliminates the gap.** Translation, transcription, and voice cloning are built directly into the meeting experience — not bolted on as an afterthought.
+Jinsoku solves this properly. Translation, transcription, and voice cloning are all built directly into the meeting experience — not added as an awkward afterthought.
 
 ---
 
 ## Features
 
 ### Real-time Voice Translation
-Speech-to-text with instant AI translation across **42 languages** — delivered in under **300 milliseconds**. Every participant hears the translated audio and sees captions in their preferred language as words are spoken.
+Speak naturally and get instant translation across 42 languages, delivered in under 300 milliseconds. Everyone hears the audio in their own language and sees live captions as the conversation happens.
 
 <p align="center">
   <img src="assets/image1.png" alt="Live Translate — Japanese to English in real time" width="800" />
 </p>
 
 ### AI Voice Cloning
-Upload a **30-second audio sample** and Jinsoku creates a digital model of your voice that speaks any supported language. Participants hear *you*, not a robotic narrator — preserving your tone, cadence, and identity across every meeting.
+Just upload a 1-minute audio sample of your voice, and Jinsoku creates a digital version of it. People hear *you* speaking — with your own tone, rhythm, and personality — not some robotic voice, no matter which language they choose.
 
-### Live Captions & Text Translation
-Live subtitles appear as people speak, already translated into your language. After the meeting, you get the full transcript.
+### Live Captions & Translation
+Subtitles appear in real time, already translated into each person's preferred language. Once the meeting ends, you also get a complete transcript.
 
 <p align="center">
   <img src="assets/image4.png" alt="Live captions — translated conversation between Sarah and Hiroshi" width="800" />
 </p>
 
 ### HD Video & Audio Conferencing
-Crystal-clear video and audio with adaptive bitrate streaming. Supports up to **100 participants** per meeting with enterprise-grade reliability and low latency worldwide.
+Crystal-clear video and audio that adjusts automatically to your connection. Supports up to 100 participants with reliable, low-latency performance around the world.
 
 ### AI Meeting Summaries
-Never take notes again. After every meeting, generate AI-powered summaries with **key points**, **action items**, and **decisions** — all extracted automatically from the conversation.
+Stop taking notes. After every meeting, Jinsoku automatically generates a clean summary with the key points, action items, and decisions from the conversation.
 
 ### Video Messages
-Record and send translated video messages asynchronously. Perfect for cross-timezone teams — your message arrives in every recipient's language, in your voice.
+Record a video once and send it asynchronously. It automatically translates into each recipient's language while keeping your original voice. Great for teams across different time zones.
 
 ### Meeting Recordings
-Full recordings with baked-in captions and translations. Review any moment in any language after the meeting ends.
+All recordings include built-in captions and translations so you can review any part later in whatever language you want.
 
 ---
 
 ## How It Works
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                        Meeting Room                          │
-│                                                              │
-│  Speaker (English) ──► Live Transcription ──► AI Translation │
-│                                  │                 │         │
-│                                  ▼                 ▼         │
-│                           Live Captions    Voice Synthesis   │
-│                         (each language)   (speaker's voice)  │
-│                                                              │
-│              ┌───────────────────────────────┐               │
-│              │  Participant A hears: French  │               │
-│              │  Participant B hears: Japanese│               │
-│              │  Participant C hears: Spanish │               │
-│              └───────────────────────────────┘               │
-│                                                              │
-│                    < 300ms end-to-end                         │
-└──────────────────────────────────────────────────────────────┘
-```
-
-1. **Join a meeting** — create or join with a simple link
-2. **Choose your language** — select from 42 supported languages
-3. **Start talking** — Jinsoku handles translation in real time
-4. **Review later** — AI summaries and recordings capture everything
+1. Join or create a meeting with a simple link
+2. Choose your preferred language from the 42 available options
+3. Start talking — Jinsoku translates everything in real time
+4. Review later with smart summaries and full recordings
 
 ---
 
@@ -103,12 +83,12 @@ Full recordings with baked-in captions and translations. Review any moment in an
 
 | Scenario | How Jinsoku Helps |
 |---|---|
-| **Global remote teams** | Daily standups where everyone speaks their native language and understands each other instantly |
-| **International sales calls** | Close deals across borders without hiring interpreters or relying on broken machine translations |
-| **International conferences** | Speakers present once — every attendee hears it in their language with the speaker's own voice |
-| **Cross-timezone collaboration** | Send async video messages that auto-translate for recipients in different time zones |
-| **Multilingual classrooms** | Students follow lectures in their own language with accurate, real-time captions |
-| **Cross-border healthcare** | Doctors and patients communicate clearly — reducing errors from language gaps |
+| **Global remote teams** | Run standups where everyone speaks their native language and still understands each other perfectly |
+| **International sales calls** | Close deals across borders without interpreters or confusing translations |
+| **International conferences** | Present once — every attendee hears your own voice in their language |
+| **Cross-timezone collaboration** | Send video messages that translate automatically while keeping your voice |
+| **Multilingual classrooms** | Students follow lectures comfortably with real-time captions in their language |
+| **Cross-border healthcare** | Doctors and patients communicate clearly and reduce dangerous misunderstandings |
 
 ---
 
@@ -118,8 +98,8 @@ Full recordings with baked-in captions and translations. Review any moment in an
   <img src="assets/image5.png" alt="Jinsoku Pricing — Free, Spark, and Bolt plans" width="800" />
 </p>
 
-| | **Free** | **Spark** | **Bolt** |
-|---|:---:|:---:|:---:|
+| Feature | Free | Spark | Bolt |
+|---|---|---|---|
 | **Price** | $0/mo | $10/mo | $30/mo |
 | **Annual Price** | — | $100/yr | $300/yr |
 | **Translation** | 30 min/mo | Included | Included |
@@ -130,7 +110,7 @@ Full recordings with baked-in captions and translations. Review any moment in an
 | **AI Summaries** | — | Included | Included |
 | **Concurrent Meetings** | 1 | Multiple | Multiple |
 
-> Save **2 months free** with annual billing. 14-day money-back guarantee. No credit card required for Free tier.
+> Save 2 months free with annual billing. 14-day money-back guarantee. No credit card required for the Free plan.
 
 <p align="center">
   <a href="https://jinsoku.ai/#pricing">
@@ -142,7 +122,7 @@ Full recordings with baked-in captions and translations. Review any moment in an
 
 ## Subscription & Usage Dashboard
 
-Track your plan, usage, and meeting statistics all in one place.
+Track your plan, usage limits, and meeting history all in one simple dashboard.
 
 <p align="center">
   <img src="assets/image2.png" alt="Jinsoku Subscription & Usage Dashboard" width="800" />
@@ -152,46 +132,46 @@ Track your plan, usage, and meeting statistics all in one place.
 
 ## Supported Languages
 
-Jinsoku supports **42 languages** for transcription, translation, and voice synthesis — including:
+Jinsoku supports 42 languages for transcription, translation, and voice synthesis, including:
 
-`English` `Spanish` `French` `German` `Japanese` `Korean` `Mandarin` `Cantonese` `Portuguese` `Italian` `Russian` `Arabic` `Hindi` `Turkish` `Dutch` `Polish` `Swedish` `Thai` `Vietnamese` `Indonesian` `Malay` `Filipino` `Czech` `Danish` `Finnish` `Greek` `Hebrew` `Hungarian` `Norwegian` `Romanian` `Ukrainian` `Bengali` `Tamil` `Swahili` *and more...*
+English, Spanish, French, German, Japanese, Korean, Mandarin, Cantonese, Portuguese, Italian, Russian, Arabic, Hindi, Turkish, Dutch, Polish, Swedish, Thai, Vietnamese, Indonesian, Malay, Filipino, Czech, Danish, Finnish, Greek, Hebrew, Hungarian, Norwegian, Romanian, Ukrainian, Bengali, Tamil, Swahili — and more.
 
 ---
 
 ## Getting Started
 
-1. **Visit [jinsoku.ai](https://jinsoku.ai)** and create a free account
-2. **Set up your voice profile** — upload a 30-second audio sample for AI voice cloning
-3. **Create a meeting** and share the link with participants
-4. **Select languages** — each participant picks their preferred language
-5. **Start talking** — translations appear and play back in real time
+1. Go to [jinsoku.ai](https://jinsoku.ai) and sign up for a free account
+2. Set up your voice profile by uploading a quick 1-minute audio sample
+3. Create a meeting and share the link with your team
+4. Everyone picks their preferred language
+5. Start talking — the translations happen live
 
-No downloads. No plugins. No credit card. Works in any modern browser.
+No downloads. No plugins. No credit card needed. It works right in your browser.
 
 ---
 
 ## Security & Privacy
 
-- **End-to-end encryption** on all video and audio streams
-- **AES-256 encryption** for data at rest
-- **SOC 2 & GDPR compliant** — audited security practices
-- **No data selling** — your conversations are never used for training or sold to third parties
-- **Data deletion on request** — full control over your information
+- End-to-end encryption on all video and audio streams
+- AES-256 encryption for data at rest
+- Fully SOC 2 and GDPR compliant
+- We never sell your data or use your conversations for training
+- You can request full data deletion at any time
 
 ---
 
 ## Performance
 
-- **Sub-300ms latency** — from speech to translated audio playback
-- **Adaptive streaming** — automatically adjusts quality based on network conditions
-- **Global edge network** — low-latency connections from anywhere in the world
-- **99.9% uptime** for paid plans
+- Sub-300ms latency from speech to translated audio
+- Adaptive streaming that adjusts to your internet connection
+- Global edge network for smooth performance worldwide
+- 99.9% uptime on paid plans
 
 ---
 
 ## Roadmap
 
-We're actively building the future of multilingual communication:
+We're actively working on the future of seamless multilingual communication:
 
 - [x] Real-time transcription & translation (42 languages)
 - [x] AI voice cloning with custom voice profiles
@@ -199,49 +179,31 @@ We're actively building the future of multilingual communication:
 - [x] AI-powered meeting summaries
 - [x] Live captions & text translation
 - [x] Progressive Web App (installable on any device)
-- [ ] Async video translation — record and auto-translate video messages
-- [ ] Calendar integration — sync with Google Calendar and Outlook
-- [ ] AI meeting assistant — context-aware bots that join and help
+- [x] Async translated video messages
+- [x] Calendar integration with Google Calendar and Outlook
+- [ ] Smart AI meeting assistant that can join and help
 
 ---
 
 ## FAQ
 
-<details>
-<summary><strong>How accurate is the translation?</strong></summary>
-<br />
-Jinsoku uses state-of-the-art neural machine translation models optimized for conversational speech. For major language pairs (English, Spanish, French, German, Japanese, etc.), quality is comparable to professional human translation for everyday business conversations.
-</details>
+**How accurate is the translation?**
+We use state-of-the-art neural models optimized for natural conversation. For major languages like English, Spanish, French, German, and Japanese, the quality is very close to professional human translators for everyday business discussions.
 
-<details>
-<summary><strong>Does voice cloning sound natural?</strong></summary>
-<br />
-Yes. Upload just a 30-second audio sample and our AI creates a digital voice model that preserves your unique vocal characteristics — tone, pitch, cadence, and speaking style — across all 42 supported languages.
-</details>
+**Does the voice cloning sound natural?**
+Yes — surprisingly so. A 1-minute sample is enough for our AI to capture your tone, pitch, cadence, and speaking style across all 42 languages.
 
-<details>
-<summary><strong>How fast is the translation?</strong></summary>
-<br />
-Under 300 milliseconds from speech to translated audio playback. This is fast enough for natural, real-time conversation without awkward pauses.
-</details>
+**How fast is the translation?**
+Under 300 milliseconds from when you speak until others hear the translated audio. It feels natural with almost no delay.
 
-<details>
-<summary><strong>Is my data private?</strong></summary>
-<br />
-All streams are encrypted end-to-end with AES-256 at rest. We are SOC 2 and GDPR compliant. We never sell your data or use your conversations for AI training. You can request full data deletion at any time.
-</details>
+**Is my data private?**
+Everything is end-to-end encrypted. We're SOC 2 and GDPR compliant. Your conversations are never sold or used for training, and you can delete your data anytime.
 
-<details>
-<summary><strong>Can I try it for free?</strong></summary>
-<br />
-Yes. The Free plan includes 30 minutes of translation and 5 hours of calling per month — no credit card required. Paid plans come with a 14-day money-back guarantee.
-</details>
+**Can I try it for free?**
+Yes. The Free plan gives you 30 minutes of translation and 5 hours of meetings per month — no credit card required. Paid plans come with a 14-day money-back guarantee.
 
-<details>
-<summary><strong>Can I use Jinsoku for large meetings?</strong></summary>
-<br />
-The Bolt plan supports up to 100 participants per meeting with unlimited duration. For larger events, contact us for custom solutions.
-</details>
+**Can I use it for large meetings?**
+The Bolt plan supports up to 100 participants with unlimited duration. For bigger events, feel free to contact us for custom options.
 
 ---
 
@@ -271,5 +233,5 @@ The Bolt plan supports up to 100 participants per meeting with unlimited duratio
 </p>
 
 <p align="center">
-  <sub>&copy; 2025 Jinsoku. All rights reserved.</sub>
+  <sub>&copy; 2026 Jinsoku. All rights reserved.</sub>
 </p>
